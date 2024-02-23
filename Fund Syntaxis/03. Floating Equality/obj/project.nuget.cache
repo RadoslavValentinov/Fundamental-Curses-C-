@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QXLzhJGiQ1W5a3lU8WrhXTpbnSp3352piGJ3vXzqlRl7dIRD/V20kCUpv+3IDNcuNI5TgCI/gUyN9zlSd02lpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Radko\\Source\\Repos\\RadoslavValentinov\\Fundamental-Curses-CSharp\\Fund Syntaxis\\03. Floating Equality\\03. Floating Equality.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Radko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Radko\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Radko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Radko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
