@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Fund Syntaxis/.vs/FundamentalBasicsintaxis/v17/.suo
+*.vsidx
+*.wsuo
+*.json
+*.sqlite
+*.bin
+/Fund Syntaxis/01. Data Type Finder/obj/Debug/netcoreapp3.1/01. Data Type Finder.AssemblyInfo.cs
+*.cache
