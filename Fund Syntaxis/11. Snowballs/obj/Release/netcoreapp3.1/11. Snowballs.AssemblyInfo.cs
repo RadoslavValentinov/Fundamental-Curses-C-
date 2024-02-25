@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11. Snowballs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ccdca6811623c537774305b9ae6becb7c5c7d94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+185d412b713121d2fd9af7fd05e64db366cdb3e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("11. Snowballs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11. Snowballs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

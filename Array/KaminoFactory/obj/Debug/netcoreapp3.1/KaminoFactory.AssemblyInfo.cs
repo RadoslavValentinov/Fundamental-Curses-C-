@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KaminoFactory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb88bfe759ac5243eb8bf9459bea234d371af41c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+185d412b713121d2fd9af7fd05e64db366cdb3e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("KaminoFactory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KaminoFactory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
