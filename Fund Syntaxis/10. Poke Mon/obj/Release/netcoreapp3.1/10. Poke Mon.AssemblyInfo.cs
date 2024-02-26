@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10. Poke Mon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+185d412b713121d2fd9af7fd05e64db366cdb3e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce238436b9e8b2a5fc4b5e5df61094d2d7fe2a0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("10. Poke Mon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10. Poke Mon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
