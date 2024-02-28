@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09. Spice Must Flow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce238436b9e8b2a5fc4b5e5df61094d2d7fe2a0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7e6c4a7bf33d48b13eddaabe6ba92ae463de3bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("09. Spice Must Flow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09. Spice Must Flow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
