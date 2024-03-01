@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. Sum of Chars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7e6c4a7bf33d48b13eddaabe6ba92ae463de3bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1eabbfbbfb2bccd448bc73e2fb58468bcfcd409")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. Sum of Chars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. Sum of Chars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
